@@ -16,7 +16,6 @@ This repository contains the backend code for the second version of my portfolio
 - [Project Structure](#project-structure)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -99,10 +98,10 @@ Make sure you have the following installed:
 Create a `.env` file in the root directory and define the following variables:
 
 ```env
-SMTP_USER=your_smtp_username
-SMTP_PASS=your_smtp_password
-CONTACT_RECEIVER=your_mail_receiver
-FRONT_URL="http://example.com"
+SMTP_USER=<your_smtp_username>
+SMTP_PASS=<your_smtp_password>
+CONTACT_RECEIVER=<your_mail_receiver>
+FRONT_URL=<your_frontend_url>
 PORT=3000
 ```
 
