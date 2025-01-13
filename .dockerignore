@@ -3,3 +3,4 @@ dist
 Dockerfile
 docker-compose.yml
 .env
+pnpm-lock.yaml
